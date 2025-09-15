@@ -17,7 +17,7 @@ alert("Карта " + card + ", литров " + liter + ", баллов: " + ba
 
 
 
-
+alert('FFF')
 
 
 
